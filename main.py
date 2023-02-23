@@ -64,5 +64,5 @@ bot.login()
 bot.find_followers()
 bot.follow()
 
-input("Press Enter to close the driver window...")
+# input("Press Enter to close the driver window...")
 
